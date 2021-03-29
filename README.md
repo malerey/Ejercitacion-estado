@@ -81,7 +81,7 @@ El objetivo de estas clases es que puedas poner en práctica lo aprendido de est
 ### Primera parte (obligatoria)
 
 1. Agrega la barra de busqueda en un componente llamado `Search.js`
-2. Al buscar en el input, los productos deben filtrarse automáticamente. 
+2. Al buscar en el input, los productos deben filtrarse automáticamente, tanto por `title` como por `type`. 
 
 Modelo funcional: https://eshop-ada-5ta.netlify.app/
 
